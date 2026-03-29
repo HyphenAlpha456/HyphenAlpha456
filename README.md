@@ -4,7 +4,7 @@
 
 [cite_start]I am a 3rd-year Computer Science undergrad at the National Institute of Technology, Durgapur[cite: 3]. I specialize in bridging the gap between high-level network architectures and low-level system constraints. [cite_start]Whether it's architecting bi-directional WebSocket streams or writing strictly optimized, memory-safe C/C++[cite: 42, 43], I build reliable systems that scale.
 
-[cite_start]**🚀 Current Focus:** Diving into bare-metal C, POSIX sockets, and RTOS architecture (Apache NuttX)[cite: 50, 51]. 
+
 **🎯 Seeking:** Software Development Engineering (SDE) Internships / Full-Time Roles.
 
 ---
@@ -19,19 +19,19 @@
 ### 💻 Tech Stack & Tools
 * **Languages:** C++, C, JavaScript, TypeScript
 * [cite_start]**Backend & Systems:** Node.js, Express, POSIX APIs, REST, WebRTC, WebSockets [cite: 45, 48]
-* **Frontend:** React.js, D3.js, HTML/CSS
-* **Databases & DevOps:** MongoDB, Docker, Redis, Nginx, CI/CD
+* **Frontend:** React.js, D3.js, HTML/CSS, Tailwind, Bootstrap
+* **Databases & DevOps:** MySql, MongoDB, Docker
 
 ---
 
 ### 🚀 Featured Engineering Highlights
 * [cite_start]📡 **Live-Streaming LMS:** Engineered a learning management platform utilizing WebRTC and WebSockets for real-time, bi-directional streaming during my internship at CLCS Cetana Labs[cite: 45].
 * [cite_start]🔐 **Secured Code Vault:** Architected a secure storage pipeline implementing strict AES-256 cryptographic payloads[cite: 47].
-* [cite_start]🕸️ **Social Graph Intelligence:** Built a networking platform utilizing Bi-Directional BFS for pathfinding and graph analysis (Flipkart Grid 6.0 Semi-Finalist)[cite: 46].
+* [cite_start]🕸️ **Social Graph Intelligence:** Built a networking platform utilizing Bi-Directional BFS for pathfinding and graph analysis [cite: 46].
 
 ---
 
 ### 📈 GitHub Analytics
-![Agnimitra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyphenAlpha456&show_icons=true&theme=radical)
+![Agnimitra's GitHub Stats](![Agnimitra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyphenAlpha456&show_icons=true&theme=radical))
 
 [cite_start]📫 **Reach out to me:** agnimitra.sasaru99@gmail.com

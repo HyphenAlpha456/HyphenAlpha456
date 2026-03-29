@@ -1,34 +1,48 @@
-# Hi there, I'm Agnimitra Sasaru 👋
+<h1 align="center">Hi there, I'm Agnimitra Sasaru 👋</h1>
+<h3 align="center">Systems Engineering | Full-Stack Architecture | Competitive Programmer</h3>
 
-### Systems Engineering | Full-Stack Architecture | Competitive Programmer
+<p align="center">
+  I am a 3rd-year Computer Science undergrad at the National Institute of Technology, Durgapur. I specialize in bridging the gap between high-level network architectures and low-level system constraints. Whether it's architecting bi-directional WebSocket streams or writing strictly optimized, memory-safe C/C++, I build reliable systems that scale.
+</p>
 
-[cite_start]I am a 3rd-year Computer Science undergrad at the National Institute of Technology, Durgapur[cite: 3]. I specialize in bridging the gap between high-level network architectures and low-level system constraints. [cite_start]Whether it's architecting bi-directional WebSocket streams or writing strictly optimized, memory-safe C/C++[cite: 42, 43], I build reliable systems that scale.
-
-
-**🎯 Seeking:** Software Development Engineering (SDE) Internships / Full-Time Roles.
+<p align="center">
+  <strong>🚀 Current Focus:</strong> Diving into bare-metal C, POSIX sockets, and RTOS architecture (Apache NuttX).<br>
+  <strong>🎯 Seeking:</strong> Software Development Engineering (SDE) Internships / Full-Time Roles.
+</p>
 
 ---
 
 ### 🏆 Algorithmic Problem Solving
-[cite_start]Writing heavily optimized code to handle large constraints and complex edge cases is my daily routine[cite: 43].
-* [cite_start]**LeetCode:** Knight (Max Rating: 1912) [cite: 43]
-* **CodeChef:** Highest Rating: 1494
+Writing heavily optimized code to handle large constraints and complex edge cases is my daily routine.
+- **LeetCode:** Knight (Max Rating: 1912)
+- **CodeChef:** Highest Rating: 1494
 
 ---
 
 ### 💻 Tech Stack & Tools
-* **Languages:** C++, C, JavaScript, TypeScript
-* [cite_start]**Backend & Systems:** Node.js, Express, POSIX APIs, REST, WebRTC, WebSockets [cite: 45, 48]
-* **Frontend:** React.js, D3.js, HTML/CSS, Tailwind, Bootstrap
-* **Databases & DevOps:** MySql, MongoDB, Docker
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
+</p>
 
 ---
 
 ### 🚀 Featured Engineering Highlights
-* [cite_start]📡 **Live-Streaming LMS:** Engineered a learning management platform utilizing WebRTC and WebSockets for real-time, bi-directional streaming during my internship at CLCS Cetana Labs[cite: 45].
-* [cite_start]🔐 **Secured Code Vault:** Architected a secure storage pipeline implementing strict AES-256 cryptographic payloads[cite: 47].
-* [cite_start]🕸️ **Social Graph Intelligence:** Built a networking platform utilizing Bi-Directional BFS for pathfinding and graph analysis [cite: 46].
+* 📡 **Live-Streaming LMS:** Engineered a learning management platform utilizing WebRTC and WebSockets for real-time, bi-directional streaming during my internship at CLCS Cetana Labs.
+* 🔐 **Secured Code Vault:** Architected a secure storage pipeline implementing strict AES-256 cryptographic payloads.
+* 🕸️ **Social Graph Intelligence:** Built a networking platform utilizing Bi-Directional BFS for pathfinding and graph analysis (Flipkart Grid 6.0 Semi-Finalist).
 
 ---
 
+### 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HyphenAlpha456&show_icons=true&theme=radical&hide_border=true" alt="Agnimitra's GitHub Stats" />
+</p>
 
+📫 **Reach out to me:** agnimitra.sasaru99@gmail.com | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_URL)

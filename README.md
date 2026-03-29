@@ -12,7 +12,7 @@
 ### 🏆 Algorithmic Problem Solving
 [cite_start]Writing heavily optimized code to handle large constraints and complex edge cases is my daily routine[cite: 43].
 * [cite_start]**LeetCode:** Knight (Max Rating: 1912) [cite: 43]
-* **CodeChef:** Highest Rating: 1411 
+* **CodeChef:** Highest Rating: 1494
 
 ---
 
@@ -31,7 +31,4 @@
 
 ---
 
-### 📈 GitHub Analytics
-![Agnimitra's GitHub Stats](![Agnimitra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyphenAlpha456&show_icons=true&theme=radical))
 
-[cite_start]📫 **Reach out to me:** agnimitra.sasaru99@gmail.com

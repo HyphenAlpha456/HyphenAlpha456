@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Agnimitra Sasaru 👋
 
-<!--
-**HyphenAlpha456/HyphenAlpha456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Systems Engineering | Full-Stack Architecture | Competitive Programmer
 
-Here are some ideas to get you started:
+[cite_start]I am a 3rd-year Computer Science undergrad at the National Institute of Technology, Durgapur[cite: 3]. I specialize in bridging the gap between high-level network architectures and low-level system constraints. [cite_start]Whether it's architecting bi-directional WebSocket streams or writing strictly optimized, memory-safe C/C++[cite: 42, 43], I build reliable systems that scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[cite_start]**🚀 Current Focus:** Diving into bare-metal C, POSIX sockets, and RTOS architecture (Apache NuttX)[cite: 50, 51]. 
+**🎯 Seeking:** Software Development Engineering (SDE) Internships / Full-Time Roles.
+
+---
+
+### 🏆 Algorithmic Problem Solving
+[cite_start]Writing heavily optimized code to handle large constraints and complex edge cases is my daily routine[cite: 43].
+* [cite_start]**LeetCode:** Knight (Max Rating: 1912) [cite: 43]
+* **CodeChef:** Highest Rating: 1411 
+
+---
+
+### 💻 Tech Stack & Tools
+* **Languages:** C++, C, JavaScript, TypeScript
+* [cite_start]**Backend & Systems:** Node.js, Express, POSIX APIs, REST, WebRTC, WebSockets [cite: 45, 48]
+* **Frontend:** React.js, D3.js, HTML/CSS
+* **Databases & DevOps:** MongoDB, Docker, Redis, Nginx, CI/CD
+
+---
+
+### 🚀 Featured Engineering Highlights
+* [cite_start]📡 **Live-Streaming LMS:** Engineered a learning management platform utilizing WebRTC and WebSockets for real-time, bi-directional streaming during my internship at CLCS Cetana Labs[cite: 45].
+* [cite_start]🔐 **Secured Code Vault:** Architected a secure storage pipeline implementing strict AES-256 cryptographic payloads[cite: 47].
+* [cite_start]🕸️ **Social Graph Intelligence:** Built a networking platform utilizing Bi-Directional BFS for pathfinding and graph analysis (Flipkart Grid 6.0 Semi-Finalist)[cite: 46].
+
+---
+
+### 📈 GitHub Analytics
+![Agnimitra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HyphenAlpha456&show_icons=true&theme=radical)
+
+[cite_start]📫 **Reach out to me:** agnimitra.sasaru99@gmail.com

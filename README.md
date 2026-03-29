@@ -36,13 +36,8 @@ Writing heavily optimized code to handle large constraints and complex edge case
 ### 🚀 Featured Engineering Highlights
 * 📡 **Live-Streaming LMS:** Engineered a learning management platform utilizing WebRTC and WebSockets for real-time, bi-directional streaming during my internship at CLCS Cetana Labs.
 * 🔐 **Secured Code Vault:** Architected a secure storage pipeline implementing strict AES-256 cryptographic payloads.
-* 🕸️ **Social Graph Intelligence:** Built a networking platform utilizing Bi-Directional BFS for pathfinding and graph analysis (Flipkart Grid 6.0 Semi-Finalist).
+* 🕸️ **Social Graph Intelligence:** Built a networking platform utilizing Bi-Directional BFS for pathfinding and graph analysis 
 
 ---
 
-### 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HyphenAlpha456&show_icons=true&theme=radical&hide_border=true" alt="Agnimitra's GitHub Stats" />
-</p>
-
-📫 **Reach out to me:** agnimitra.sasaru99@gmail.com | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_URL)
+📫 **Reach out to me:** agnimitra.sasaru99@gmail.com | [LinkedIn](https://www.linkedin.com/in/agnimitra-sasaru-097974274/)
